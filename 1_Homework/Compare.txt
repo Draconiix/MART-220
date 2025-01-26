@@ -1,0 +1,5 @@
+The difference between ChatGPT's picture and my Picture made by P5.js is quite a lot.
+To start off, ChatGPT's Crabragoons are more 3D with a top over view.
+While my Crabragoons are more flat, and more geometric due to how p5.js works when creating a image.
+The other thing that comes to mind is the fact that I don't think chatGPT is using JavaScript to create it's image.
+Such as how I might be using simple functions to make each shape, ChatGPT has a more complex system in place where it learns and places down similar pixels from similar pictures to my understanding.
