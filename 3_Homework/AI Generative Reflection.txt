@@ -1,0 +1,6 @@
+I created an AI image of a Eastern dragon for the fun of it. 
+Decided to use ChatGPT as I knew this source had a decent library to refer to due to it working with DALL-E to create it's images.
+
+I can say whenever generating a image like this, it's never what I expect it to be. After all I could have been thinking of a different style, a different perspective, or even a different background! Without giving ChatGPT a specific prompt of things you want, the more creative and chaotic it can get. Same can be true if you add conflicting details or even to much detail.
+
+I remember when Generative AI was starting to become more recognized but it would fail at creating things perfectly like hands due to the lack of a big library to train on. So the fact that ChatGPT, and technically just DALL-E in the case of generating this image, just how much better it's results are getting over time as it's library grows and therefore- it's training.
